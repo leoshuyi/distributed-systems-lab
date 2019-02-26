@@ -43,5 +43,6 @@ func doReduce(
 	// file.Close()
 	//
 	// Your code here (Part I).
+	// add a comment for test
 	//
 }
